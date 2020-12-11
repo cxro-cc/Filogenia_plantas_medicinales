@@ -1,4 +1,5 @@
 # Título
+Enciclopedia filogenética de plantas medicinales de Asteraceae
 
 ## Introducción
 La toxicidad de algunos metabolitos secundarios, sintetizados y almacenados por diversas asteráceas ha permitido su ensayo y empleo en la medicina oficial, convirtiéndose en medicamentos útiles en determinadas afecciones (Del Vitto et al., 2008), al igual que muchas especies de la medicina popular, cuya utilidad terapéutica ha sido consagrada por el uso y a menudo validada científicamente (Duke et al., 2002). 
