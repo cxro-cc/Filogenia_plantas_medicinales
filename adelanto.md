@@ -14,5 +14,5 @@ Al conocer los genes involucrados en la síntesis de los distintos metabolitos s
 
 ## Diagrama de metodología
 ! [diagrama]
-(https://raw.githubusercontent.com/cxro-cc/Proyecto-final/main/assets/metodo.png)
+(https://raw.githubusercontent.com/cxro-cc/Proyecto-final/main/metodo.png)
 
