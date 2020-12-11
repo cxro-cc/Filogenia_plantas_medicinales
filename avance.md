@@ -7,3 +7,4 @@
 ##Hipótesis
 
 #Diagrama, metodología tentativa 
+# Proyecto-equipo-07
