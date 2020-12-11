@@ -13,6 +13,5 @@ Crear una filogenia de plantas medicinales de la familia Asteraceae que incluya 
 Al conocer los genes involucrados en la síntesis de los distintos metabolitos secundarios de algunas especies de asteráceas y el uso medicinal que tienen, la filogenia resultante agrupará a las especies con respecto a su uso medicinal.
 
 ## Diagrama de metodología
-! [diagrama]
-(https://raw.githubusercontent.com/cxro-cc/Proyecto-final/main/metodo.png)
+! [diagrama](https://raw.githubusercontent.com/cxro-cc/Proyecto-final/main/metodo.png)
 
