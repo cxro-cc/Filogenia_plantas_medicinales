@@ -23,3 +23,14 @@ Un análisis filogenético permite establecer las relaciones cladísticas o gene
 ## Conclusiones
 
 ## Referencias
+  Andrade-Cetto, A., & Heinrich, M. (2005). Mexican plants with hypoglycaemic effect used in the treatment of diabetes. Journal of ethnopharmacology, 99(3), 325-348.
+  
+  Morrone, J. J. (2013). Sistemática. Universidad Nacional Autónoma de México, Facultad de Ciencias.
+  
+  Shane-McWhorter, L. (2001). Biological complementary therapies: a focus on botanical products in diabetes. Diabetes Spectrum, 14(4), 199-208.
+  
+  Soltis, D. E., & Soltis, P. S. (2003). The Role of Phylogenetics in Comparative Genetics. Plant Physiology, 132(4), 1790-1800. https://doi.org/10.1104/pp.103.022509
+  
+  Witters, L. A. (2001). The blooming of the French lilac. The Journal of clinical investigation, 108(8), 1105-1107.
+
+
