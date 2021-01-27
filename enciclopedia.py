@@ -33,7 +33,7 @@ des_func = (""" Elige el número que desees, te llevará a una filogenia y al ar
     3- Antiinflamatoria, antioxidante y anticancerigena (pinocembrin)
     4- \n""")
 
-para_1 = ("link")
+para_1 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/kaemp.html")
 para_2 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/ac_clorogenico.html")
 para_3 = ("otro")
 
