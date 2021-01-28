@@ -18,11 +18,11 @@ planta = ("""Hola, bienvenidx a la enciclopedia de plantas medicinales (:
    ------------------------------------
 
 Este es un banco de filogenias de componentes activos de plantas los cuales son utilizados para tratar diferentes enfermedades,
-En él encontrarás información de cada compuesto y ... 
-una vez dentro del árbol de cada compuesto puedes dar click para ir a la información de la planta y de la secuencia
-utilizada \n""")
+En él encontrarás información de cada compuesto junto con el artículo de la información, 
+una vez dentro del árbol de cada compuesto puedes dar click en el número de acceso o en el nombre científico para llevarte
+a los enlaces que necesitas uwu \n""")
 
-func_comp = ("""    Como antidiabetico
+func_comp = ("""    Como antidiabético
     Para metabolismo de glucosa y lípidos
     Como antiinflamatoria, antioxidante y anticancerigena
     Para... \n""")
