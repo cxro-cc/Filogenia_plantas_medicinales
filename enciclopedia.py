@@ -25,18 +25,21 @@ a los enlaces que necesitas uwu \n""")
 func_comp = ("""    Como antidiabético
     Para metabolismo de glucosa y lípidos
     Como antiinflamatoria, antioxidante y anticancerigena
-    Con actividad hipoglucemiante \n""")
+    Con actividad hipoglucemiante
+    Como antioxidante \n""")
 
 des_func = (""" Elige el número que desees, te llevará a una filogenia y al artículo del compuesto (: :    
     1- Antidiabético (kaempferol)
     2- Metabolismo de glucosa y lípidos (ac. clorigenico)
     3- Antiinflamatoria, antioxidante y anticancerigena (pinocembrin)
-    4- Actividad hipoglucemiante (urseno) \n""")
+    4- Actividad hipoglucemiante (urseno)
+    5- Antioxidante y capta radicales libres (flavonoide) \n""")
 
 para_1 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/kaemp.html")
 para_2 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/ac_clorogenico.html")
 para_3 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/pino.html")
 para_4 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/urseno.html")
+para_5 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/flavonide.html")
 
 print (planta)
 
@@ -58,7 +61,10 @@ if op == "s":
             webbrowser.open("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747598/")
         elif elige == "4":
             webbrowser.open(para_4)
-            webbrowser.open("https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.966")    
+            webbrowser.open("https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.966")
+        elif elige == "5":
+            webbrowser.open(para_5)
+            webbrowser.open("https://www.redalyc.org/articulo.oa?id=579/57938407")
         else:
             print ("oh, eso no hay")
     else:
