@@ -35,7 +35,7 @@ des_func = (""" Elige el número que desees, te llevará a una filogenia y al ar
 
 para_1 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/kaemp.html")
 para_2 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/ac_clorogenico.html")
-para_3 = ("otro")
+para_3 = ("https://htmlpreview.github.io/?https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/pino.html")
 
 print (planta)
 
@@ -52,7 +52,7 @@ if op == "s":
         elif elige == "2":
             webbrowser.open(para_2)
             webbrowser.open("https://www.hindawi.com/journals/ecam/2013/801457/")
-        elif elige == "2":
+        elif elige == "3":
             webbrowser.open(para_3)
             webbrowser.open("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747598/")    
         else:
