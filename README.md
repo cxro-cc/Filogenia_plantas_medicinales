@@ -19,7 +19,7 @@ Realizar una filogenia con base en los componentes activos de plantas presentado
 
 
 ## Diagrama metodológico
-<img align="left" width="460" height="600" src="http://www">
+<img align="left" width="460" height="600" src="https://github.com/cxro-cc/Filogenia_plantas_medicinales/blob/main/diagrama.png">
 
 ## Resultados
 
