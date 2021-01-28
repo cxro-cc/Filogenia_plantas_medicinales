@@ -1,7 +1,9 @@
 # Enciclopedia de filogenias de compuestos medicinales en plantas
 
 Carolina CC (cxro-cc)
+
 Luis AMG (LuisANgelMancilla)
+
 Victor MG 
 
 ## Introducción
