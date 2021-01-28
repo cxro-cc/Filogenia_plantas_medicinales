@@ -15,6 +15,7 @@ Un análisis filogenético permite establecer las relaciones cladísticas o gene
 ## Objetivo
 
 ## Hipótesis
+Realizar una filogenia con base en los componentes activos de plantas presentados en el artículo [“Mexican plants with hypoglycemic effect used in the treatment of diabetes”](http://etnof.fciencias.unam.mx/P3Pub/Pdf/010.pdf) (Andrade-Cetto, 2005) e identificar posibles alternativas a dichos activos con respecto a su semejanza genética.
 
 ## Diagrama metodológico
 
@@ -32,5 +33,11 @@ Un análisis filogenético permite establecer las relaciones cladísticas o gene
   Soltis, D. E., & Soltis, P. S. (2003). The Role of Phylogenetics in Comparative Genetics. Plant Physiology, 132(4), 1790-1800. https://doi.org/10.1104/pp.103.022509
   
   Witters, L. A. (2001). The blooming of the French lilac. The Journal of clinical investigation, 108(8), 1105-1107.
+  
+  Orellana, J. V., & de Mera, A. G. (2014). FILOGENIA DE LAS ANGIOSPERMAS Y FITOQUÍMICA. REVISTA PERSPECTIVA, 15(1-2).
+
+  Pérez G., RM y Vargas S., R. (2002), Triterpenos de Agarista Mexicana como potenciales agentes antidiabéticos. Phytother. Res. 16: 55-58. https://doi.org/10.1002/ptr.966
+  
+  Shane-McWhorter, L. (2001). Biological complementary therapies: a focus on botanical products in diabetes. Diabetes Spectrum, 14(4), 199-208.
 
 
