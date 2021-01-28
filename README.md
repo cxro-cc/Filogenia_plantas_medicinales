@@ -13,15 +13,18 @@ Un análisis filogenético permite establecer las relaciones cladísticas o gene
 
 
 ## Objetivo
-
-## Hipótesis
 Realizar una filogenia con base en los componentes activos de plantas presentados en el artículo [“Mexican plants with hypoglycemic effect used in the treatment of diabetes”](http://etnof.fciencias.unam.mx/P3Pub/Pdf/010.pdf) (Andrade-Cetto, 2005) e identificar posibles alternativas a dichos activos con respecto a su semejanza genética.
 
+## Hipótesis
+
+
 ## Diagrama metodológico
+<img align="left" width="460" height="600" src="http://www">
 
 ## Resultados
 
 ## Conclusiones
+Los principios activos existentes en una especie pueden asegurar el éxito de encontrar nuevas moléculas en especies próximas filogenéticamente (Orellana y de Mera, 2014), por lo que la identificación de  diferentes especies de plantas que sintetizan compuestos utilizados ampliamente dentro de la medicina no convencional, para el tratamiento de afecciones a la salud como la diabetes, puede representar un primer paso para facilitar el proceso de selección más práctico y ágil de las especies que los producen para optimizar el aislamiento de enzimas involucradas en la síntesis de metabolitos secundarios.
 
 ## Referencias
   Andrade-Cetto, A., & Heinrich, M. (2005). Mexican plants with hypoglycaemic effect used in the treatment of diabetes. Journal of ethnopharmacology, 99(3), 325-348.
