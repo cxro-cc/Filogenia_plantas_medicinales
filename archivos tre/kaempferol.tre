@@ -1,0 +1,117 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=13;
+	taxlabels
+	'10_XM_027319466_1 Coffea eugenioides'
+	'11_XM_027217282_1 Coffea arabica'
+	'12_XM_010052197_1 Eucalyptus grandis'
+	'13_XM_009800850_1 Nicotiana sylvestris'
+	'1_XR_004870273_1 Helianthus annuus'
+	'2_XM_004242629_4 Solanum lycopersicum'
+	'3_XM_006343476_1 Solanum tuberosum kaempferol'
+	'4_XM_010270132_2 Nelumbo nucifera kaempferol'
+	'5_XM_019379895_1 Nicotiana attenuata'
+	'6_XM_023880416_1 Lactuca sativa'
+	'7_XM_009620690_3 Nicotiana tomentosiformis'
+	'8_XM_004149042_1 Cucumis sativus'
+	'9_XM_028391111_1 Glycine soja anthocyanidin'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((('1_XR_004870273_1 Helianthus annuus'[&!color=#339900]:0.4236,'8_XM_004149042_1 Cucumis sativus'[&!color=#339900]:0.2223)[&!color=#339900]:0.0283,(('2_XM_004242629_4 Solanum lycopersicum'[&!color=#339900]:0.0303,'3_XM_006343476_1 Solanum tuberosum kaempferol'[&!color=#339900]:0.0456)[&!color=#339900]:0.0669,(('5_XM_019379895_1 Nicotiana attenuata'[&!color=#339900]:0.0139,'7_XM_009620690_3 Nicotiana tomentosiformis'[&!color=#339900]:0.0177)[&!color=#339900]:0.0105,'13_XM_009800850_1 Nicotiana sylvestris'[&!color=#339900]:0.0107)[&!color=#339900]:0.0598)[&!color=#339900]:0.0775)[&!color=#339900]:0.0304,(('10_XM_027319466_1 Coffea eugenioides'[&!color=#339900]:0.0,'11_XM_027217282_1 Coffea arabica'[&!color=#339900]:0.0)[&!color=#339900]:0.1675,'6_XM_023880416_1 Lactuca sativa'[&!color=#339900]:0.2312)[&!color=#339900]:0.0384)[&!color=#339900]:0.0119,('9_XM_028391111_1 Glycine soja anthocyanidin'[&!color=#339900]:0.341,'12_XM_010052197_1 Eucalyptus grandis'[&!color=#339900]:0.4379)[&!color=#339900]:0.0248,'4_XM_010270132_2 Nelumbo nucifera kaempferol'[&!color=#339900]:0.367)[&!color=#339900];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=6.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set colour.order.names="Names:";
+	set colour.scheme.names="Names:HSBDiscrete{hue,1,0.0,1.0,0.5,0.6,0.4,0.8}";
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=true;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=874;
+	set rectilinearLayout.rootLength=874;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=0.1;
+	set scaleAxis.minorTicks=0.05;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Proxima Nova Lt";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

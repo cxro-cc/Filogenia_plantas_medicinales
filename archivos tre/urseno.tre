@@ -1,0 +1,29 @@
+(((((((
+1_Arabidopsis lyrata
+:0.06650,
+5_Arabidopsis thaliana
+:0.06650):0.03213,(
+10_Camelina sativa
+:0.05011,
+11_Camelina_sativa2
+:0.05011):0.04852):0.11087,
+12_Eutrema salsugineum
+:0.20950):0.01318,
+6_Arabis alpina
+:0.22268):0.50625,
+8_Arabis alpina
+:0.72893):0.27098,((
+3_Arabidopsis lyrata
+:0.23864,(
+9_Brassica oleracea
+:0.17171,
+14_Raphanus sativus
+:0.17171):0.06692):0.63729,(
+4_Arabidopsis thaliana
+:0.23466,
+7_Arabis alpina
+:0.23466):0.64126):0.12398):0.05306,(
+2_Arabidopsis lyrata
+:0.83854,
+13_Eutrema salsugineum
+:0.83854):0.21443);

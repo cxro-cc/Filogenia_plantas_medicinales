@@ -1,0 +1,114 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=12;
+	taxlabels
+	'10_JF799117_1 Ruta graveolens'
+	'11_KR233012_1 Lonicera macranthoides'
+	'12_GQ847546_1 Lonicera japonica'
+	'1_NM_001325150_1 Nicotiana tabacum'
+	'2_AJ582652_1 Lycopersicon esculentum'
+	'3_NM_105469_2 Arabidopsis thaliana'
+	'4_NM_001247921_2 Solanum lycopersicum'
+	'5_EU839580_1 Cynara cardunculus'
+	'6_AM117806_1 Coffea arabica'
+	'7_MK033609_1 Taraxacum antungense'
+	'8_MH261361_1 Chrysanthemum x morifolium'
+	'9_KX845342_1 Lonicera japonica'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((('1_NM_001325150_1 Nicotiana tabacum'[&!color=#339900]:0.073,('2_AJ582652_1 Lycopersicon esculentum'[&!color=#339900]:0.0,'4_NM_001247921_2 Solanum lycopersicum'[&!color=#339900]:0.0)[&!color=#339900]:0.1026)[&!color=#339900]:0.0399,('8_MH261361_1 Chrysanthemum x morifolium'[&!color=#339900]:0.6448,(((('6_AM117806_1 Coffea arabica'[&!color=#339900]:0.2635,'10_JF799117_1 Ruta graveolens'[&!color=#339900]:0.1124)[&!color=#339900]:0.0133,'9_KX845342_1 Lonicera japonica'[&!color=#339900]:0.1018)[&!color=#339900]:0.4646,'3_NM_105469_2 Arabidopsis thaliana'[&!color=#339900]:0.4371)[&!color=#339900]:0.0889,'11_KR233012_1 Lonicera macranthoides'[&!color=#339900]:0.4405)[&!color=#339900]:0.0849)[&!color=#339900]:0.1241)[&!color=#339900]:0.0509,'5_EU839580_1 Cynara cardunculus'[&!color=#339900]:0.1128)[&!color=#339900]:0.0161,'7_MK033609_1 Taraxacum antungense'[&!color=#339900]:0.1439,'12_GQ847546_1 Lonicera japonica'[&!color=#339900]:0.1007)[&!color=#339900];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=6.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=true;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=777;
+	set rectilinearLayout.rootLength=777;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Proxima Nova Lt";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
